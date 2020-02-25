@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-fortune/static/css/main.7f205a02.chunk.css",
+    "main.js": "/react-fortune/static/js/main.c49a6499.chunk.js",
+    "main.js.map": "/react-fortune/static/js/main.c49a6499.chunk.js.map",
+    "runtime-main.js": "/react-fortune/static/js/runtime-main.e0222ae9.js",
+    "runtime-main.js.map": "/react-fortune/static/js/runtime-main.e0222ae9.js.map",
+    "static/js/2.9c411de3.chunk.js": "/react-fortune/static/js/2.9c411de3.chunk.js",
+    "static/js/2.9c411de3.chunk.js.map": "/react-fortune/static/js/2.9c411de3.chunk.js.map",
+    "index.html": "/react-fortune/index.html",
+    "precache-manifest.e7d559b9d51e24cc5b12168402c1a1b0.js": "/react-fortune/precache-manifest.e7d559b9d51e24cc5b12168402c1a1b0.js",
+    "service-worker.js": "/react-fortune/service-worker.js",
+    "static/css/main.7f205a02.chunk.css.map": "/react-fortune/static/css/main.7f205a02.chunk.css.map",
+    "static/js/2.9c411de3.chunk.js.LICENSE.txt": "/react-fortune/static/js/2.9c411de3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0222ae9.js",
+    "static/js/2.9c411de3.chunk.js",
+    "static/css/main.7f205a02.chunk.css",
+    "static/js/main.c49a6499.chunk.js"
+  ]
+}
